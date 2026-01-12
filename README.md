@@ -2,12 +2,8 @@
 
 🚀 Aspiring DevOps & Cloud Engineer | 💡 Building scalable, secure & automated solutions
 
----
-
 ## 👨‍💻 About Me
 I'm a passionate Developer & DevOps enthusiast specializing in Cloud (AWS), Infrastructure Automation, Kubernetes & Docker, CI/CD Pipelines, and Secure & Scalable Architectures. I love learning, building real-world systems, and contributing to open source.
-
----
 
 ## 🛠 Tech Stack
 
@@ -17,16 +13,12 @@ I'm a passionate Developer & DevOps enthusiast specializing in Cloud (AWS), Infr
 ### 🧠 Backend & Tools
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
----
-
 ## 🚀 What I Do
 - 💻 Build automated CI/CD workflows  
 - ☁️ Deploy apps on cloud infrastructure  
 - 🛡️ Implement security best practices  
 - 📦 Containerize apps using Docker & Kubernetes  
 - 🤝 Contribute to DevOps and open-source communities  
-
----
 
 ## 📫 Connect With Me
 <p>
@@ -35,6 +27,5 @@ I'm a passionate Developer & DevOps enthusiast specializing in Cloud (AWS), Infr
 <a href="mailto:st9807419005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
 ✨ *Always learning. Always building.*
+
